@@ -2,9 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-
-def courses_webscraped_function():
-    course_name = input("enter: ")
+def courses_webscraped_function(course_name):
     
     course_split =  course_name.split()
 
@@ -61,4 +59,5 @@ def courses_webscraped_function():
     courses_dataframe = pd.DataFrame({"Course Title": course_titles_list, "Educators": educators_list, "Skills You'll Gain": skills_list, "Skill Level": levels_list, "Ratings": ratings_list, "Hyperlink": hyperlinks_list})
 
     return courses_dataframe
-print(courses_webscraped_function())
+
+print(courses_webscraped_function("Machine Learning"))
