@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import numpy as np
+
 
 def courses_webscraped_function(course_name):
     
@@ -15,9 +15,13 @@ def courses_webscraped_function(course_name):
 
     elif(len(course_split) == 3):
         url = f"https://www.coursera.org/search?query={course_split[0]}%20{course_split[1]}%20{course_split[2]}"
+
     elif(len(course_split) == 4):
         url = f"https://www.coursera.org/search?query={course_split[0]}%20{course_split[1]}%20{course_split[2]}%20{course_split[3]}"
 
+    elif(len(course_split) == 4):
+        url = f"https://www.coursera.org/search?query={course_split[0]}%20{course_split[1]}%20{course_split[2]}%20{course_split[3]}%20{course_split[4]}"
+    
     response = requests.get(url)
 
     soup = BeautifulSoup(response.text, "lxml")
@@ -47,10 +51,13 @@ def courses_webscraped_function(course_name):
     for hyperlink in hyperlinks[: 5]:
         hyperlinks_list.append("https://www.coursera.org/" + hyperlink["href"])
 
-    courses_dataframe = pd.DataFrame({"Course Title": course_titles_list, "Educators": educators_list, "Skills You'll Gain": skills_list, "Ratings": ratings_list, "Hyperlink": hyperlinks_list})
+    levels_list = []
+    levels = soup.find_all("div", class_ = "cds-CommonCard-metadata")
+    for level in levels[: 5]:
+        level = level.text.split()
+        levels_list.append(level[0])
+
+    courses_dataframe = pd.DataFrame({"Course Title": course_titles_list, "Educators": educators_list, "Skills You'll Gain": skills_list, "Skill Level": levels_list, "Ratings": ratings_list, "Hyperlink": hyperlinks_list})
 
     return courses_dataframe
-
-
-df = courses_webscraped_function("machine learning")
-print(df)
+print(courses_webscraped_function("machine learning"))
