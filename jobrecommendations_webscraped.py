@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import re
+
 
 
 job_name = input("Enter job name: ")
@@ -38,5 +40,21 @@ for i in range(0, len(job_titles_list) - 1, 2):
     job_title = job_titles_list[i] + " " + job_titles_list[i + 1]
     job_titles_list_final.append(job_title)
 
-print(job_titles_list_final)
+company_names_list = []
+company_names = soup.find_all("h3", class_ = "joblist-comp-name")
+for company_name in company_names[: 5]:
+    company_name = company_name.text
+    cleaned_company_name = re.sub(r'\s+', ' ', company_name).strip()
+    company_names_list.append(cleaned_company_name)
 
+hyperlinks_list = []
+hyperlinks = soup.find_all("a")
+for hyperlink in hyperlinks[21: 29]:
+    for i in hyperlink["href"][0]:
+        if(i == "h"):
+            hyperlinks_list.append(hyperlink["href"])
+
+print(company_names_list)
+job_recommendations_dataframe = pd.DataFrame({"Job Titles": job_titles_list_final, "Company Names": company_names_list, "HyperLinks": hyperlinks_list})
+
+print(job_recommendations_dataframe)
