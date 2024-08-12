@@ -1,0 +1,11 @@
+state = 0
+name=""
+email=""
+location=""
+degree =""
+discipline = ""
+institutions = ""
+certifications = ""
+programming_languages = ""
+cur_job=""
+years_exp=""
