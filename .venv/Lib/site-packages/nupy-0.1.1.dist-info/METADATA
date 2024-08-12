@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: nupy
+Version: 0.1.1
+Summary: A package for numerical calculus
+Home-page: https://github.com/begeistert
+Author: Iván Montiel Cardona
+Author-email: ivan.montiel.c@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: sympy
+
+UNKNOWN
+
+
