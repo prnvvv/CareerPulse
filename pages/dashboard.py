@@ -29,11 +29,17 @@ st.markdown(custom_css, unsafe_allow_html=True)
 st.markdown(custom_css, unsafe_allow_html=True)
 
 
-st.button("🔍 Interest - How to follow your passion")
+Interest_button = st.button("🔍 Find your Interest ")
 st.button("📝 Psychometric quiz")
 st.button("🧠 Career Quiz")
 st.button("📄 Job Application")
-st.button("💬 Chat bot")
+chat_button = st.button("💬 Chat bot")
+
+if chat_button:
+    st.switch_page("pages/chatbot.py")
+
+if Interest_button:
+    st.switch_page("pages/Interest.py")
 
 
 
