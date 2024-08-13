@@ -2,8 +2,7 @@ import streamlit as st
 import meta_data
 def Career_quiz():
     with st.form("Career Quiz"):
-        degree = st.text_input("Highest Degree Obtained (e.g., B.Tech, M.S.)")
-        cgpa = st.text_input("CGPA: The individual's CGPA (Cumulative Grade Point Average).")
+        meta_data.cgpa = st.text_input("CGPA: The individual's CGPA (Cumulative Grade Point Average).")
         def webDev_YesNo():
             with st.form("webDev_YesNo"):
                 col1, col2 = st.columns(2)
@@ -234,42 +233,42 @@ def Career_quiz():
                     st.rerun()
 
         def manage_YesNo():
-        with st.form("manage_YesNo"):
-            col1, col2 = st.columns(2)
-            with col1:
-                yesbut = st.form_submit_button("Yes")
-                        
-            with col2:
-                nobut = st.form_submit_button("No")
+            with st.form("manage_YesNo"):
+                col1, col2 = st.columns(2)
+                with col1:
+                    yesbut = st.form_submit_button("Yes")
+                            
+                with col2:
+                    nobut = st.form_submit_button("No")
 
 
 
-            if yesbut:
-                meta_data.QID12 = False
-                st.rerun()
+                if yesbut:
+                    meta_data.QID12 = False
+                    st.rerun()
 
-            if nobut:
-                meta_data.QID12 = True
-                st.rerun()
+                if nobut:
+                    meta_data.QID12 = True
+                    st.rerun()
 
         def blog_YesNo():
-        with st.form("blog_YesNo"):
-            col1, col2 = st.columns(2)
-            with col1:
-                yesbut = st.form_submit_button("Yes")
-                        
-            with col2:
-                nobut = st.form_submit_button("No")
+            with st.form("blog_YesNo"):
+                col1, col2 = st.columns(2)
+                with col1:
+                    yesbut = st.form_submit_button("Yes")
+                            
+                with col2:
+                    nobut = st.form_submit_button("No")
 
 
 
-            if yesbut:
-                meta_data.QID13 = 4
-                st.rerun()
+                if yesbut:
+                    meta_data.QID13 = 4
+                    st.rerun()
 
-            if nobut:
-                meta_data.QID13 = 3
-                st.rerun()
+                if nobut:
+                    meta_data.QID13 = 3
+                    st.rerun()
 
         def marketing_YesNo():
             with st.form("marketing_YesNo"):
