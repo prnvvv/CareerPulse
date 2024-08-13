@@ -112,6 +112,37 @@ model = DecisionTreeRegressor()
 model.fit(Xtrain, ytrain)
 predictions = model.predict(Xtest)
 
+
+
+
+'''Q1 = {"Strongly Agree": 0, "Strongly Disagree": 1, "Neutral": 2, "Agree": 3, "Disagree": 4}
+Q2 = {"Strongly Agree": 4, "Strongly Disagree": 3, "Neutral": 0, "Agree": 1, "Disagree": 2}
+Q3 = {"Strongly Agree": 4, "Strongly Disagree": 3, "Neutral": 1, "Agree": 2, "Disagree": 0}
+Q4 = {"Strongly Agree": 3, "Strongly Disagree": 4, "Neutral": 0, "Agree": 1, "Disagree": 2}
+Q5 = {"Strongly Agree": 3, "Strongly Disagree": 4, "Neutral": 1, "Agree": 0, "Disagree": 2}
+Q6 = {"Strongly Agree": 3, "Strongly Disagree": 1, "Neutral": 2, "Agree": 0, "Disagree": 4}
+Q7 = {"Strongly Agree": 0, "Strongly Disagree": 1, "Neutral": 2, "Agree": 3, "Disagree": 4}
+
+
+for i in df.columns[: 24]:
+  reverse_list = []
+  if df[i]'''
+
+column_dicts = {}
+
+for column in df.columns[: 24]:
+    unique_values = df[column].unique()
+    
+    value_to_index = {value: index for index, value in enumerate(unique_values)}
+    
+    column_dicts[column] = value_to_index
+
+print(column_dicts)
+
+
+
+
+'''
 output_list = []
 
 col=df.columns.tolist()
@@ -146,3 +177,4 @@ for i in y_pred:
   output_list.append(i[0])
     
 
+'''

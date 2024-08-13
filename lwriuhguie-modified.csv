@@ -1,0 +1,747 @@
+CGPA,Did you do webdev during college time ?,Are you good at Data analysis ?,reading and writing skills,Are you a tech person ?,Were you in a non tech society ?,Are you good at coding ?,Have you developed mobile apps ?,Are you good at communication ?,Do you have specialization in security,Have you ever handled large databases ?,Do you have knowlege of statistics and data science?,Are you proficient in English ?,Have you ever managed some event?,Do you write technical blogs ?,Are you into marketing ?,Are you a ML expert ?,Do you have a lot of connections ?,Have you ever built live project ?,Experience with CAD Software,Involvement in Robotics Projects?,Knowledge of Construction Materials?,Involvement in Urban Planning Projects ?,Knowledge of Biomechanics?,Involvement in Healthcare Technology Projects?,Experience with Aircraft Design Software?,Experience with Flight Simulation?,Knowledge of Control Systems?,Experience with PCB Design?,Role
+8,none,no,excellent,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.8,yes,no,poor,yes,no,none,no,no,no,no,yes,none,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,ML engineer
+7.9,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,Management
+8,yes,no,medium,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,Developer
+6.4,no,no,poor,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,yes,no,poor,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.4,yes,no,excellent,yes,none,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.3,no,yes,poor,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.4,no,yes,poor,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+7.8,no,no,excellent,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+5.7,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Content Writer
+8.1,no,no,medium,yes,no,yes,yes,no,none,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.5,no,yes,medium,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+7.8,yes,no,poor,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,Developer
+9.2,yes,yes,poor,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,Developer
+8.7,yes,no,medium,no,none,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+8.4,yes,no,medium,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.3,yes,no,medium,yes,yes,yes,no,no,no,none,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.5,yes,no,excellent,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+7.9,yes,no,medium,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,Developer
+8.5,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+8.2,yes,no,medium,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.8,no,no,excellent,no,yes,no,no,yes,no,none,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+7.5,yes,no,medium,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.4,yes,no,medium,no,no,yes,none,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,Computer Analyst
+9.2,yes,no,excellent,yes,no,yes,no,none,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.5,yes,no,poor,yes,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,Developer
+8,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+0,no,no,excellent,no,no,no,none,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+8.6,yes,yes,poor,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,Data Analysis
+7.8,no,yes,excellent,yes,yes,yes,no,yes,none,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+8.8,yes,no,excellent,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.2,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.5,no,no,poor,no,yes,no,no,none,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.8,yes,no,poor,yes,no,yes,yes,yes,no,none,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,Developer
+9.2,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.5,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.3,yes,no,poor,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,yes,no,medium,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.1,yes,yes,medium,yes,no,yes,no,no,no,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.3,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+8.1,no,no,poor,no,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.5,yes,no,poor,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Security
+9.2,yes,yes,poor,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+5.5,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Management
+7.5,no,no,poor,no,yes,no,no,yes,no,yes,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+8,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+8.1,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.9,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Network Engineer
+6.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.1,yes,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.2,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+9.4,no,no,poor,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,yes,no,poor,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+8.7,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+8.6,no,yes,poor,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+5.9,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.9,yes,no,poor,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.1,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.5,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,no,no,medium,no,yes,yes,yes,yes,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+8.5,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.8,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+7.3,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+7.7,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.6,yes,no,poor,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+9.2,yes,yes,poor,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+9.2,yes,yes,poor,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,yes,yes,medium,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.9,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+6.6,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,no,yes,medium,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.9,no,yes,poor,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.4,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Data Engineer
+5.6,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.7,yes,no,excellent,no,no,yes,no,none,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+6.5,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+7.1,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Network Engineer
+5.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+9.2,yes,yes,poor,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+9.7,yes,no,poor,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+8.3,yes,no,poor,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.8,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.7,no,yes,medium,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+5.1,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.4,no,yes,poor,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.7,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+8.6,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+5.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.9,yes,no,medium,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.1,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.5,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,no,no,excellent,no,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+8.9,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.7,yes,no,medium,yes,yes,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.7,yes,yes,medium,yes,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.4,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,none,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+7.8,no,no,poor,no,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,Security
+8.3,yes,no,poor,yes,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+7.3,no,yes,poor,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+7.4,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+7.8,no,no,medium,no,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,poor,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8.4,no,yes,excellent,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.8,no,no,poor,yes,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+5.7,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.2,yes,yes,poor,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,Network Engineer
+8.6,no,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,Developer
+8.3,yes,yes,medium,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.9,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8,yes,no,medium,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Data Engineer
+6.6,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,no,yes,medium,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.9,no,yes,medium,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,Computer Analyst
+6.4,no,yes,poor,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,ML engineer
+8.9,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.7,yes,no,poor,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.7,yes,yes,medium,yes,none,yes,no,no,no,yes,yes,none,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,Data Analysis
+7.4,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,Management
+8,yes,no,excellent,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,Developer
+6.4,no,no,poor,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,no,no,excellent,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,Network Engineer
+7,yes,yes,poor,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,Developer
+8.4,yes,no,excellent,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.3,no,yes,medium,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.4,no,yes,poor,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Computer Analyst
+7.8,no,no,medium,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,yes,yes,Content Writer
+5.7,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.1,no,no,excellent,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.5,no,yes,excellent,yes,no,yes,no,yes,no,no,no,yes,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+7.8,yes,no,medium,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8.7,yes,yes,medium,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+7.7,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+6.5,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.9,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+7.1,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+5.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+9.7,yes,no,excellent,no,no,yes,no,yes,yes,no,none,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Data Analysis
+8.3,no,no,poor,no,none,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Management
+8.8,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.1,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Marketing
+5.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+9.7,yes,no,medium,no,no,yes,no,yes,yes,no,none,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Security
+8.3,yes,no,poor,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.8,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.7,no,yes,excellent,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+5.1,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.4,no,yes,excellent,yes,no,none,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.9,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.7,yes,no,excellent,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.7,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.1,no,no,poor,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+9.5,no,no,poor,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+7.8,no,no,excellent,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.7,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,none,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+7.7,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Security
+6.5,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7.1,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+7.4,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+7.8,no,no,poor,no,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8.2,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+9.4,no,no,excellent,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.1,yes,no,excellent,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8.7,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.6,yes,yes,medium,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+5.9,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.9,yes,no,poor,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.1,yes,no,medium,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.9,yes,yes,medium,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.4,yes,no,poor,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+5.6,yes,no,poor,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+7.7,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.5,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.9,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8.2,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+9.4,no,no,medium,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.1,yes,no,medium,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.7,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+8.6,no,yes,poor,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+5.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.9,no,no,poor,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.1,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.5,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Network Engineer
+6.6,yes,no,poor,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.9,no,yes,medium,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.4,yes,no,poor,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+5.6,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+7.7,no,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Security
+6.5,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.9,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+7.5,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.4,yes,no,medium,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.2,yes,no,excellent,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.5,yes,no,excellent,yes,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+0,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+8.6,yes,yes,poor,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Data Analysis
+6.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8.2,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+9.4,no,no,medium,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.1,yes,no,medium,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.7,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.6,no,yes,medium,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+5.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.9,no,no,poor,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.1,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.5,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.6,yes,no,poor,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,Developer
+8.3,no,yes,medium,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.9,no,yes,excellent,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.8,no,no,poor,no,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,Developer
+6.3,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8.2,yes,yes,medium,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+9.4,no,no,excellent,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Computer Analyst
+9.1,yes,no,medium,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,Developer
+8.7,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Security
+8.6,yes,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+5.9,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,Content Writer
+9.9,yes,no,poor,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.1,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.9,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.4,yes,no,poor,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+5.6,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.7,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,Security
+8.3,yes,yes,medium,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.9,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8,yes,no,poor,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+6.6,yes,no,poor,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.3,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+6.9,no,yes,excellent,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+6.4,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.9,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.7,yes,no,poor,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.7,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.4,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8,yes,no,poor,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.4,no,no,excellent,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Network Engineer
+7.2,no,no,medium,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,yes,no,medium,yes,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+8.5,yes,no,medium,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+7.9,yes,no,medium,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.5,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+8.2,yes,no,medium,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+7.5,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.4,yes,no,poor,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.2,yes,no,medium,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.5,yes,no,excellent,yes,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8,no,no,medium,no,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+0,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+8.6,yes,yes,poor,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.8,no,yes,medium,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+8.8,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.2,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.5,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.8,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.2,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.5,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,no,no,medium,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.3,yes,no,poor,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.9,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8,yes,no,excellent,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+6.4,no,no,poor,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,yes,no,excellent,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8.4,yes,no,excellent,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.3,no,yes,poor,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.4,no,yes,poor,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.8,no,no,excellent,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+5.7,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.1,no,no,medium,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.5,no,yes,excellent,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+7.8,yes,no,poor,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.7,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+8.4,yes,no,poor,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.3,yes,no,medium,yes,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+8.5,yes,no,poor,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+7.9,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.5,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+8.2,yes,no,medium,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+9.2,no,yes,poor,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.5,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.5,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.3,yes,no,medium,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.9,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8,yes,no,excellent,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8.1,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.9,yes,yes,medium,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.4,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+5.6,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+7.8,yes,no,excellent,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.7,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Security
+8.4,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.3,yes,no,poor,yes,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,Developer
+6.3,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,Marketing
+6.9,no,yes,excellent,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.8,no,no,excellent,no,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,yes,no,no,Marketing
+9.1,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,Management
+8.2,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,Data Analysis
+9.4,no,no,medium,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,Computer Analyst
+9.1,yes,no,excellent,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.2,no,yes,poor,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.5,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+8.5,yes,no,medium,yes,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+0,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+8.6,yes,yes,excellent,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Data Analysis
+8.9,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.4,yes,no,excellent,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+5.6,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,medium,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+8.9,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,poor,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+8.9,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.4,yes,no,medium,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+5.6,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+9.8,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,poor,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.8,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,excellent,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+8.3,yes,no,poor,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.1,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+7.2,yes,no,medium,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8.4,yes,no,excellent,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.3,no,yes,excellent,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.4,no,yes,excellent,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.8,no,no,medium,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+5.7,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.1,no,no,medium,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.5,no,yes,excellent,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+9.1,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8.2,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+9.4,no,no,poor,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Marketing
+5.9,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.9,yes,no,excellent,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+6.1,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.5,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.1,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8.2,yes,yes,medium,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+9.4,no,no,poor,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+5.9,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.5,no,yes,excellent,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+8.9,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.4,yes,no,poor,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+5.6,yes,no,excellent,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+9.8,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,poor,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.8,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,medium,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,Marketing
+8.3,yes,no,excellent,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.1,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.3,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+7.2,yes,no,excellent,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8.4,no,yes,poor,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.9,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,Developer
+8.5,yes,yes,medium,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+8.2,yes,no,excellent,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+6.8,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+9.2,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.5,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.5,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+7.9,yes,no,medium,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.5,yes,yes,medium,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+8.2,yes,no,excellent,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+7.5,yes,no,medium,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+7.4,yes,no,poor,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.2,yes,no,poor,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.2,no,yes,excellent,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.7,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Security
+8.3,yes,yes,poor,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.9,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+8,yes,no,poor,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Data Engineer
+6.6,yes,no,poor,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,no,yes,poor,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,ML engineer
+6.9,no,yes,excellent,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+6.4,no,yes,excellent,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.9,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.7,yes,no,poor,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.7,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+8,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,Security
+8.1,yes,no,medium,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+8.9,yes,yes,poor,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+9.1,yes,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,Management
+8.2,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+9.4,no,no,medium,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,Computer Analyst
+9.1,yes,no,poor,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,Developer
+8.7,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+8.6,no,yes,medium,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+5.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.9,yes,no,medium,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+7.2,no,no,medium,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.8,yes,no,excellent,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.2,no,yes,poor,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,ML engineer
+6.5,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,Marketing
+7.2,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.3,yes,no,excellent,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,yes,no,excellent,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+9.1,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.1,no,no,medium,no,yes,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.5,yes,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Security
+9.2,yes,yes,medium,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+5.5,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+7.5,no,no,excellent,no,yes,no,no,yes,no,yes,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Management
+8.6,no,yes,medium,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,Developer
+5.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,Computer Analyst
+9.9,no,no,excellent,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.1,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.5,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,Content Writer
+6.6,yes,no,excellent,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+5.6,yes,no,poor,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+9.8,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+7,yes,no,medium,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,medium,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,Marketing
+6.8,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+7,yes,no,poor,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,Developer
+6.3,no,no,poor,no,yes,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+8.3,yes,no,medium,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,Developer
+9.1,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+6.1,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.5,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.6,yes,no,medium,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.3,no,yes,poor,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.9,no,yes,poor,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+7.4,yes,no,medium,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Data Engineer
+5.6,yes,no,excellent,yes,no,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Developer
+7.7,no,no,medium,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Security
+6.5,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.9,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,Content Writer
+8.8,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+6.7,no,yes,medium,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+5.1,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.4,no,yes,medium,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.7,yes,no,excellent,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Security
+8.6,no,yes,medium,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,ML engineer
+5.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Content Writer
+9.9,yes,no,excellent,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+6.1,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Management
+6.5,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,Content Writer
+7,no,no,excellent,no,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+8.9,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,Marketing
+9.1,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,Content Writer
+8.1,no,yes,poor,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,Computer Analyst
+8,yes,no,poor,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,Developer
+6.4,no,no,excellent,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,no,no,excellent,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.3,yes,no,poor,yes,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Developer
+6.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+8.5,yes,no,excellent,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+7.9,yes,no,medium,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.5,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,Data Analysis
+8.2,yes,no,poor,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Developer
+6.8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+7.5,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,Developer
+7.4,yes,no,excellent,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,Computer Analyst
+9.2,yes,no,none,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.5,yes,no,excellent,yes,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8,no,no,medium,no,yes,no,no,none,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,no,Marketing
+6.8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Management
+7.5,yes,no,excellent,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,Developer
+7.4,yes,no,excellent,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+9.2,yes,no,none,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,ML engineer
+8.5,yes,no,excellent,yes,yes,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,Developer
+8,no,no,medium,no,yes,no,no,none,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+6.4,no,no,excellent,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,no,no,excellent,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+8.3,yes,no,poor,yes,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,Developer
+6.3,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,Marketing
+8.5,yes,no,excellent,yes,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,Developer
+7.9,yes,no,medium,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Developer
+8.5,yes,yes,excellent,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,Data Analysis
+8.1,no,none,poor,yes,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Computer Analyst
+8,yes,no,poor,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Developer
+6.4,no,no,excellent,no,yes,yes,no,yes,none,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Marketing
+7.2,no,none,excellent,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Network Engineer
+6.5,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.6,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.3,no,no,poor,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,Mechanical Engineering
+7,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.3,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+9.1,no,no,poor,no,no,no,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.2,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+9.4,no,no,excellent,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+9.1,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.7,no,no,medium,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.6,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+5.9,no,no,poor,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+9.9,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.1,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.9,no,no,medium,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.4,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+5.6,no,no,medium,no,no,no,no,none,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.7,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.3,no,no,medium,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.9,no,no,excellent,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.6,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.3,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.9,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.4,no,no,excellent,no,no,no,no,none,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.9,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+9.1,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.7,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.7,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.4,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.4,no,no,excellent,no,no,yes,no,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.2,no,no,poor,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.3,no,no,excellent,no,no,no,no,yes,no,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.3,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.5,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.9,no,no,medium,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.5,no,no,poor,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.2,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+6.8,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.5,no,no,medium,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.4,no,no,poor,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+9.2,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.5,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+0,no,no,medium,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.6,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+7.8,no,no,excellent,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,Mechanical Engineering
+8.8,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+9.2,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+6.5,no,no,poor,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+7.2,no,no,medium,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8.8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+9.2,no,no,poor,no,no,no,no,no,no,yes',no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+6.5,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+7.2,no,no,poor,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8.3,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+7.9,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8,no,no,poor,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+6.4,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+7.2,no,no,medium,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+8.4,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+7.3,no,no,medium,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8.4,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+7.8,no,no,medium,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+5.7,no,no,medium,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,Biomedical Engineering
+8.1,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+9.5,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+7.8,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8.7,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8.4,no,no,medium,no,no,no,no,none,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+8.3,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,Biomedical Engineering
+6.3,no,no,excellent,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8.5,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+7.9,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8.5,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+8.2,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+6.8,no,no,medium,no,yes,no,no,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+9.2,no,no,excellent,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+6.5,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+6.5,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+7.2,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+8.3,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+7.9,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8,no,no,poor,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+8.1,no,no,poor,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8.9,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,Biomedical Engineering
+7.4,no,no,medium,no,no,no,no,no,no,no,no,no,no,none,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,Biomedical Engineering
+8.5,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Aerospace Engineering
+8.9,no,no,medium,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+7.4,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+5.6,no,no,poor,no,yes,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+9.8,no,no,medium,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+7,no,no,excellent,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+6.3,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+6.8,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+7,no,no,poor,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+6.3,no,no,excellent,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,Aerospace Engineering
+8.3,no,no,excellent,no,no,no,no,no,no,no,no,yes,none,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+9.1,no,no,excellent,no,no,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+7.3,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+7.2,no,no,poor,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+8.4,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+7.9,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+8.5,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+8.2,no,no,medium,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+6.8,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+9.2,no,no,poor,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+6.5,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+6.5,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+7.9,no,no,poor,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+8.5,no,no,excellent,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+8.2,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+6.8,no,no,excellent,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+7.5,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+7.4,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+9.2,no,no,medium,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+8.2,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,Aerospace Engineering
+7.7,no,no,excellent,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+8.3,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,Aerospace Engineering
+7.9,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+6.6,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+8.3,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+6.9,no,no,excellent,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+6.4,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8.9,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+9.1,no,no,poor,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+6.7,no,no,poor,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+6.7,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,yes,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8.1,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+8.9,no,no,medium,no,no,no,no,yes,no,no,no,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+7,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+6.3,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+9.1,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8.2,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+9.4,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+9.1,no,no,poor,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8.7,no,no,poor,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+8.6,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+5.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+9.9,no,no,poor,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+7.2,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8.8,no,no,excellent,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+9.2,no,no,excellent,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+6.5,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+7.2,no,no,excellent,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8.3,no,no,medium,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8.3,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+9.1,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+7.3,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,no,Civil Engineering
+8.1,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+9.5,no,no,poor,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+9.2,no,no,medium,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+5.5,no,no,medium,no,no,yes,no,yes,no,no,no,yes,yes,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+7.5,no,no,poor,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+8.6,no,no,medium,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,Civil Engineering
+5.9,no,no,medium,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+9.9,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+6.1,no,no,medium,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+6.5,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+6.6,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+5.6,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+9.8,no,no,medium,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+7,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,Civil Engineering
+6.3,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,Civil Engineering
+6.8,no,no,excellent,no,no,yes,no,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+7,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+6.3,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+8.3,no,no,medium,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+9.1,no,no,excellent,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.1,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+6.5,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.6,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+8.3,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+7.4,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+5.6,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+7.7,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.5,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.9,no,no,poor,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+8.8,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.7,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+5.1,no,no,poor,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.4,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+8.7,no,no,medium,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+8.6,no,no,poor,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+5.9,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+9.9,no,no,excellent,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.1,no,no,poor,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.5,no,no,poor,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+7,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+8.9,no,no,excellent,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+9.1,no,no,excellent,no,no,yes,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+8.1,no,no,excellent,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+8,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+6.4,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes,Electrical Engineering
+7.2,no,no,medium,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+8.3,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+6.3,no,no,poor,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+8.5,no,no,medium,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+7.9,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+8.5,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+8.2,no,no,poor,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+6.8,no,no,poor,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,Electrical Engineering
+7.5,no,no,medium,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes,Electrical Engineering
+7.4,no,no,medium,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,Chemical Engineering
+9.2,no,no,excellent,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+8.5,no,no,excellent,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+8,no,no,poor,no,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+6.8,no,no,medium,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+7.5,no,no,excellent,no,no,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+7.4,no,no,excellent,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Chemical Engineering
+9.2,no,no,poor,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Chemical Engineering
+8.5,no,no,excellent,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+8,no,no,medium,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Chemical Engineering
+6.4,no,no,medium,no,no,no,no,yes,no,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,yes,Chemical Engineering
+7.2,no,no,excellent,no,no,no,no,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+8.3,no,no,excellent,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Chemical Engineering
+6.3,no,no,excellent,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+8.5,no,no,medium,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,Chemical Engineering
+7.9,no,no,poor,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+8.5,no,no,medium,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+8.1,no,no,excellent,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,Chemical Engineering
+8,no,no,excellent,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
+6.4,no,no,poor,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,Chemical Engineering
+7.2,no,no,poor,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,Chemical Engineering
