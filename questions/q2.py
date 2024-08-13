@@ -12,11 +12,11 @@ def Q2_page():
 
 
         if yesbut:
-                meta_data.Qstate = 1
-                QID1 = True
+                meta_data.Qstate = 3
+                meta_data.QID2 = True
                 st.rerun()
 
         if nobut:
-                meta_data.Qstate = 1
-                QID1 = False
+                meta_data.Qstate = 3
+                meta_data.QID2 = False
                 st.rerun()

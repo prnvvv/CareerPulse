@@ -1,8 +1,8 @@
 import streamlit as st
 import meta_data
 
-def Q3_page():
-    with st.form("Q3_page"):
+def Q5_page():
+    with st.form("Q5_page"):
         col1, col2 = st.columns(2)
         with col1:
             yesbut = st.form_submit_button("Yes")
@@ -12,11 +12,11 @@ def Q3_page():
 
 
         if yesbut:
-                meta_data.Qstate = 4
-                meta_data.QID3 = True
+                meta_data.Qstate = 6
+                meta_data.QID5 = True
                 st.rerun()
 
         if nobut:
-                meta_data.Qstate = 4
-                meta_data.QID3 = True
+                meta_data.Qstate = 6
+                meta_data.QID5 = False
                 st.rerun()

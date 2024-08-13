@@ -1,7 +1,7 @@
 import streamlit as st
 import meta_data
 
-def Q3_page():
+def Q4_page():
     with st.form("Q4_page"):
         col1, col2 = st.columns(2)
         with col1:
@@ -12,11 +12,11 @@ def Q3_page():
 
 
         if yesbut:
-                meta_data.Qstate = 1
-                QID1 = True
+                meta_data.Qstate = 5
+                meta_data.QID4 = True
                 st.rerun()
 
         if nobut:
-                meta_data.Qstate = 1
-                QID1 = False
+                meta_data.Qstate = 5
+                meta_data.QID4 = False
                 st.rerun()
