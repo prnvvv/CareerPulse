@@ -13,7 +13,7 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-df  = pd.read_csv("/content/psychometric_data_normalized.csv")
+df  = pd.read_csv(r"C:\Users\Prannavakhanth\Documents\CareerPulse\psychometric_data_normalized.csv")
 df
 
 columns = df.columns
@@ -112,5 +112,35 @@ model = DecisionTreeRegressor()
 model.fit(Xtrain, ytrain)
 predictions = model.predict(Xtest)
 
+
+col=df.columns.tolist()
+col=col[:24]
+
 print(accuracy_score(predictions, ytest))
+def test(k,ar):
+  if k in range(6):
+    ar.append(k)
+    return 0
+  else :
+    print("Pls enter values only in the range 5")
+    return 1
+ar=[]
+for i in range(24):
+  k=int(input(f'{col[i]}:-'))
+  t=test(k,ar)
+  while(t):
+    k=int(input(f'{col[i]}:-'))
+    t=test(k,ar)
+t=pd.DataFrame([ar],columns=col)
+y_pred=[]
+for i in range(5):
+  y = df[results_set[i]]
+
+  Xtrain, Xtest, ytrain, ytest = train_test_split(X, y, test_size=0.2)
+
+  model = DecisionTreeRegressor()
+  model.fit(Xtrain, ytrain)
+  y_pred.append(model.predict(t))
+for i in y_pred:
+  print(i)
 
