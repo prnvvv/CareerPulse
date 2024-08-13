@@ -112,6 +112,7 @@ model = DecisionTreeRegressor()
 model.fit(Xtrain, ytrain)
 predictions = model.predict(Xtest)
 
+output_list = []
 
 col=df.columns.tolist()
 col=col[:24]
@@ -142,5 +143,6 @@ for i in range(5):
   model.fit(Xtrain, ytrain)
   y_pred.append(model.predict(t))
 for i in y_pred:
-  print(i)
+  output_list.append(i[0])
+    
 
